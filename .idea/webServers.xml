@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="28323f9d-5e99-42c9-af45-ef9ef2ed7fa2" name="pwp-milestone-one" url="http://ddc-web-student.cnm.edu/~bklein3/pwp-miestone-one">
+        <fileTransfer rootFolder="/home/bklein3/public_html/pwp-miestone-one" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="2818f96c-7920-42b0-8cef-01f9fa899285" sshConfig="bklein3@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
